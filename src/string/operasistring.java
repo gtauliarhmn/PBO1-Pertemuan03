@@ -1,6 +1,6 @@
 package string;
 
-public class operasiString {
+class operasiString {
     public static void main(String[] args) {
         String kota = "martapura";
 
